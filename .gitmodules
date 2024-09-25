@@ -1,0 +1,3 @@
+[submodule "project1/readme"]
+	path = project1/readme
+	url = https://git@git.overleaf.com/66f48a6998a47fe757b808b3
